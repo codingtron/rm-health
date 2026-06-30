@@ -1,0 +1,20 @@
+{
+  "name": "diet-plan",
+  "version": "1.0.0",
+  "description": "رِدا مہوش - صحت مند زندگی کا رہنما",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve . -l 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "diet",
+    "health",
+    "urdu"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
